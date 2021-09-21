@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc diam lorem, tempus eget mollis nec, ullamcorper ac eros. Nulla molestie tellus sit amet sodales pulvinar. Cras interdum ipsum a magna dapibus, sed convallis ex iaculis. Nulla ultrices, orci at posuere vehicula, ante massa dignissim sapien, vel dictum eros diam id ante. Aenean pretium urna risus, et aliquet risus hendrerit in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras ligula augue, fringilla a purus vel, viverra porttitor tellus. Mauris lectus sapien, ultrices at mattis et, viverra sed tellus. Sed id purus ligula. Vestibulum lacinia scelerisque orci sed ultricies.",
+      "author": "Super Mario",
+      "id": 1
+    },
+    {
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc diam lorem, tempus eget mollis nec, ullamcorper ac eros. Nulla molestie tellus sit amet sodales pulvinar. Cras interdum ipsum a magna dapibus, sed convallis ex iaculis. Nulla ultrices, orci at posuere vehicula, ante massa dignissim sapien, vel dictum eros diam id ante. Aenean pretium urna risus, et aliquet risus hendrerit in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras ligula augue, fringilla a purus vel, viverra porttitor tellus. Mauris lectus sapien, ultrices at mattis et, viverra sed tellus. Sed id purus ligula. Vestibulum lacinia scelerisque orci sed ultricies.",
+      "author": "Darth Vader",
+      "id": 2
+    },
+    {
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc diam lorem, tempus eget mollis nec, ullamcorper ac eros. Nulla molestie tellus sit amet sodales pulvinar. Cras interdum ipsum a magna dapibus, sed convallis ex iaculis. Nulla ultrices, orci at posuere vehicula, ante massa dignissim sapien, vel dictum eros diam id ante. Aenean pretium urna risus, et aliquet risus hendrerit in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras ligula augue, fringilla a purus vel, viverra porttitor tellus. Mauris lectus sapien, ultrices at mattis et, viverra sed tellus. Sed id purus ligula. Vestibulum lacinia scelerisque orci sed ultricies.",
+      "author": "Tâlha Mehmet Karamuk",
+      "id": 58
+    }
+  ]
+}
